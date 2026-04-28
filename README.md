@@ -7,7 +7,7 @@ This project demonstrates the design and implementation of a relational database
 The goal of this project is to showcase practical SQL skills in database management, querying, and analysis.
 
 🛠️ Tech Stack
-Database: PostgreSQL
+Database: PostgreSQL, MySQL
 
 Language: SQL
 
