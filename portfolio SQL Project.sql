@@ -152,3 +152,4 @@ left join orders o on b.book_id = o.book_id
 group by b.book_id;
 
 
+-- The End.
